@@ -1,5 +1,5 @@
 function apertar(){
-  alert("Botão clickado.");
+  console.log("Botão clickado.");
 }
 
 // Acessar o botão
